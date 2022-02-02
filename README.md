@@ -14,6 +14,7 @@ We acquired two large data sets from Kaggle (https://www.kaggle.com/manchunhui/u
  
 ## 2) Analysing the Sentiment change across states
 <img width="1420" alt="USline" src="https://user-images.githubusercontent.com/35873124/152046386-32926feb-be9c-47f0-a189-a52073f46f53.png">
+
 ## 3) Investigating the cause of major change in Florida
 <img width="1420" alt="USbar" src="https://user-images.githubusercontent.com/35873124/152046400-f2c41e20-9e7f-44bf-aa40-d816897dbd36.png">
 
