@@ -12,7 +12,7 @@ We acquired two large data sets from Kaggle (https://www.kaggle.com/manchunhui/u
 ## 1) Joe Biden vs Donald Trump Winner Prediction Map
 <img width="1388" alt="USmap" src="https://user-images.githubusercontent.com/35873124/152046353-6ee41f4d-b098-455c-9fc7-c45e8080cb42.png">
  
-## 2) Comparing the Sentiment change 
+## 2) Impact of events on sentiment change 
 <img width="1420" alt="USline" src="https://user-images.githubusercontent.com/35873124/152046386-32926feb-be9c-47f0-a189-a52073f46f53.png">
 
 ## 3) Investigating the cause of major change in Florida
