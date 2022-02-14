@@ -1,4 +1,4 @@
-# Do social media discussions actually affect the election results? Let's find out!
+# Does social media affect the elections? Let's find out!
 
 ## US-Elections-Tweet-Analysis
 
