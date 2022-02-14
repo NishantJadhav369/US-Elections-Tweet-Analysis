@@ -1,4 +1,6 @@
-# US-Elections-Tweet-Analysis
+# Do social media discussions actually affect the election results? Let's find out!
+
+## US-Elections-Tweet-Analysis
 
 Our project focused on the one of the most important political events in recent years, the 2020 United States election. We focused on a window of time where a lot of voters cast their vote, October 15th – October 31st. During this timeframe we observed tweets to see if the tweets had any correlation with the result of the election. With Donald Trump being one of the candidates and a prolific figure on Twitter (At the time) it ignited a thought within the group. Does twitter carry an impact on the United States Election?
 
